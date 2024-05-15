@@ -1,0 +1,25 @@
+body{
+    background-image: url(/img/devolio.png);
+    background-size: cover;
+}
+h1 {
+    font-size: 80px;
+        font-family: "Ultra", serif;
+            font-weight: 400;
+            font-style: bold;
+    
+}
+p{
+    font-size: 35px;
+font-family: "Tinos", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.btn {
+    color: white;
+
+    /* or any other color value */
+}
+.bg-cool{
+    background-color: #17252A;
+}
